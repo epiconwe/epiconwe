@@ -37,7 +37,7 @@ _Continuous improvement_ and keeping a beginner’s mindset help me keep shippin
 
 ## Find me around the web 🌎
 
-<a href="https://github.com/epic9toes"><img align="left" width="150" height="150" src="https://github.com/epic9toes.png" alt="Sunday Onwe"></a>
+<a href="https://github.com/epiconwe"><img align="left" width="150" height="150" src="https://github.com/epiconwe.png" alt="Sunday Onwe"></a>
 
 <div>
     <a href="https://www.linkedin.com/in/sunday-onwe-c/">
@@ -46,7 +46,7 @@ _Continuous improvement_ and keeping a beginner’s mindset help me keep shippin
     <a href="mailto:kr8tiveonwe@gmail.com">
         <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" width="30px" alt="Email">
     </a>&nbsp;&nbsp;
-    <a href="https://github.com/epic9toes">
+    <a href="https://github.com/epiconwe">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub">
     </a>
 </div>
@@ -57,8 +57,8 @@ _Continuous improvement_ and keeping a beginner’s mindset help me keep shippin
 <br>
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=epic9toes&count_private=true&show_icons=true&theme=radical" width="400px" alt="Sunday Onwe GitHub stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=epiconwe&count_private=true&show_icons=true&theme=radical" width="400px" alt="Sunday Onwe GitHub stats">
     &nbsp;&nbsp;
     &nbsp;&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epic9toes&layout=compact&theme=radical" width="350px" alt="Sunday Onwe top languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epiconwe&layout=compact&theme=radical" width="350px" alt="Sunday Onwe top languages">
 </div>
