@@ -1,95 +1,44 @@
-<h1 align="center">Hi 👋, I'm Charles Muojekwu</h1>
-<h3 align="center">Senior Software Engineer | Backend • Mobile • AI Systems</h3>
+## Hello👋🏾. Thank you for visiting my profile 👩🏾‍💻
+Hi, I am Seunfunmi Adegoke, a Software Engineer who is passionate about building quality software applications. If you don't find me binging Netflix, you would find me reading about random stuff. 
 
-<p align="center">
-  <a href="https://onwesundayc.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
-</p>
+_Continuous Improvement and Shoshin_ (**初心**) (a word from Zen Buddhism meaning “_beginner's mind_”) are my watchword.
 
----
 
-## 🚀 About Me
+<h3>My Skills include 👨‍💻</h3>
+<div>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <br>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-00000F?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 
-- Senior Software Engineer with experience building **scalable, high-traffic systems**
-- Strong background in **fintech, distributed systems, and mobile platforms**
-- Currently working on **event-driven architectures, AI systems, and backend platforms**
-- Passionate about **system design, performance optimization, and clean architecture**
-- Based in **Lisbon, Portugal 🇵🇹**
+ 
+</div>
 
----
 
-## 🧠 What I Work On
+## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/fortune-uwha/fortune-uwha/blob/main/Gif/Fortune-octocat-rotating.gif?raw=true"></a> 
+<div>
+    <a href="https://www.linkedin.com/in/seunfunmi-adegoke/">
+        <img src="https://user-images.githubusercontent.com/40443167/162639626-3d3ae8bd-e02e-4854-aeb0-b0ffa457184a.png" width="30px">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: seunfunmi.adegoke@gmail.com">
+        <img src="https://user-images.githubusercontent.com/40443167/162639747-6f6067e8-0fc0-480d-b820-58594dd93390.png" width="30px">
+    </a>&nbsp;&nbsp;
+</div>
 
-- Designing **high-scale backend systems (microservices, event-driven, CQRS)**
-- Building **mobile applications (React Native) with real-time capabilities**
-- Developing **AI-powered tools (RAG systems, agents, LLM integrations)**
-- Creating **secure payment and financial systems (PCI, KYC, integrations)**
+<hr>
+<br>
 
----
+<div >
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=seun-beta&count_private=true&show_icons=true&theme=radical"  width="400px" alt="OLAMIDE100">
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seun-beta&layout=compact&theme=radical"  width="350px" alt="OLAMIDE100">
+</div>
 
-## 🛠 Tech Stack
 
-**Languages**
-- C#, Python, PHP, JavaScript, TypeScript
-
-**Backend & Architecture**
-- .NET, Laravel, FastAPI, Django
-- REST APIs, gRPC, Event-driven systems
-- Azure Service Bus, Kafka
-
-**Frontend & Mobile**
-- React, Next.js, React Native
-
-**Cloud & DevOps**
-- Azure, AWS
-- Docker, Kubernetes
-- CI/CD pipelines
-
-**Data & Storage**
-- MySQL, PostgreSQL, Redis, Cosmos DB
-
----
-
-## 📈 What I've Built
-
-- 💳 Payment systems handling **100k+ daily API requests**
-- 🌍 Remittance platforms across **US, UK, Canada, Africa**
-- 📱 Mobile apps with **real-time data streaming (WebSocket/gRPC)**
-- 🤖 AI tools for **code evaluation, automation, and RAG pipelines**
-- ⚡ Event-driven systems with **high reliability and observability**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epic9toes&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=epic9toes" />
-</p>
-
----
-
-## 📌 Featured Work
-
-👉 Pin your best repositories here (Go to "Customize your pins")
-
-Examples to include:
-- Backend system / API platform
-- Mobile app (React Native)
-- AI / RAG project
-- System design or infra project
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 Portfolio: https://onwesundayc.vercel.app/
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: kr8tiveonwe@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning complex systems into **simple, scalable, and reliable solutions**.
