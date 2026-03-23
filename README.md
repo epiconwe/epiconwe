@@ -1,6 +1,6 @@
 ## Hello 👋🏾. Thank you for visiting my profile 👩🏾‍💻
 
-Hi, I am **Sunday Chukwumaobim Onwe**, a Mobile Engineer focused on cross-platform development with **React Native**, **React**, and **Next.js**. I build scalable, secure, and high-performance apps in fintech, security, and education—turning business requirements into clear UX, solid performance, and reliable architecture. I care about payment integrations, real-time systems, and mobile architecture with an emphasis on reliability and adoption.
+Hi, I am **Sunday Chukwumaobim Onwe**, a Mobile/Frontend Engineer focused on cross-platform development with **React Native**, **React**, and **Next.js**. I build scalable, secure, and high-performance apps in fintech, security, and education—turning business requirements into clear UX, solid performance, and reliable architecture. I care about payment integrations, real-time systems, and mobile architecture with an emphasis on reliability and adoption.
 
 _Continuous improvement_ and keeping a beginner’s mindset help me keep shipping better software.
 
