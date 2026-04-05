@@ -7,7 +7,7 @@
 *Building secure, production-grade mobile products that scale and hold up under compliance scrutiny*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-onwe-c/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kr8tiveonwe@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sundayonwec@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/epiconwe?style=flat-square&label=Follow&color=181717&logo=github)](https://github.com/epiconwe)
 
 </div>
@@ -117,7 +117,7 @@ Apps I've built and shipped — live on the Google Play Store:
 I'm always open to interesting conversations — whether it's a technical challenge, a collaboration, or just a chat about mobile engineering.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunday-onwe-c/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kr8tiveonwe@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sundayonwec@gmail.com)
 
 ---
 
